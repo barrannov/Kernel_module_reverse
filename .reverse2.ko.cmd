@@ -1,0 +1,1 @@
+cmd_/home/aleksandr/projects/reverse_kernel/reverse2.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/aleksandr/projects/reverse_kernel/reverse2.ko /home/aleksandr/projects/reverse_kernel/reverse2.o /home/aleksandr/projects/reverse_kernel/reverse2.mod.o
